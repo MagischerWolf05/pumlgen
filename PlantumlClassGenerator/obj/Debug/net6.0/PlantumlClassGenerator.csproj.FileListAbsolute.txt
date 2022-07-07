@@ -1,0 +1,15 @@
+D:\Dokumente\01_bbw\m326\PlantumlClassGenerator\PlantumlClassGenerator\bin\Debug\net6.0\PlantumlClassGenerator.exe
+D:\Dokumente\01_bbw\m326\PlantumlClassGenerator\PlantumlClassGenerator\bin\Debug\net6.0\PlantumlClassGenerator.deps.json
+D:\Dokumente\01_bbw\m326\PlantumlClassGenerator\PlantumlClassGenerator\bin\Debug\net6.0\PlantumlClassGenerator.runtimeconfig.json
+D:\Dokumente\01_bbw\m326\PlantumlClassGenerator\PlantumlClassGenerator\bin\Debug\net6.0\PlantumlClassGenerator.dll
+D:\Dokumente\01_bbw\m326\PlantumlClassGenerator\PlantumlClassGenerator\bin\Debug\net6.0\PlantumlClassGenerator.pdb
+D:\Dokumente\01_bbw\m326\PlantumlClassGenerator\PlantumlClassGenerator\obj\Debug\net6.0\PlantumlClassGenerator.csproj.AssemblyReference.cache
+D:\Dokumente\01_bbw\m326\PlantumlClassGenerator\PlantumlClassGenerator\obj\Debug\net6.0\PlantumlClassGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dokumente\01_bbw\m326\PlantumlClassGenerator\PlantumlClassGenerator\obj\Debug\net6.0\PlantumlClassGenerator.AssemblyInfoInputs.cache
+D:\Dokumente\01_bbw\m326\PlantumlClassGenerator\PlantumlClassGenerator\obj\Debug\net6.0\PlantumlClassGenerator.AssemblyInfo.cs
+D:\Dokumente\01_bbw\m326\PlantumlClassGenerator\PlantumlClassGenerator\obj\Debug\net6.0\PlantumlClassGenerator.csproj.CoreCompileInputs.cache
+D:\Dokumente\01_bbw\m326\PlantumlClassGenerator\PlantumlClassGenerator\obj\Debug\net6.0\PlantumlClassGenerator.dll
+D:\Dokumente\01_bbw\m326\PlantumlClassGenerator\PlantumlClassGenerator\obj\Debug\net6.0\refint\PlantumlClassGenerator.dll
+D:\Dokumente\01_bbw\m326\PlantumlClassGenerator\PlantumlClassGenerator\obj\Debug\net6.0\PlantumlClassGenerator.pdb
+D:\Dokumente\01_bbw\m326\PlantumlClassGenerator\PlantumlClassGenerator\obj\Debug\net6.0\PlantumlClassGenerator.genruntimeconfig.cache
+D:\Dokumente\01_bbw\m326\PlantumlClassGenerator\PlantumlClassGenerator\obj\Debug\net6.0\ref\PlantumlClassGenerator.dll

@@ -1,0 +1,6 @@
+@startuml
+ class  CreakeClassDiagramm{
+ public CreakeClassDiagramm
+public static string plantumlstring 
+}
+@enduml
